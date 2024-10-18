@@ -32,14 +32,13 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 5.Repeat steps 2-4 for each bit you want to input and shift. 
 
 **PROGRAM**:
-
+```
  Program for flipflops and verify its truth table in quartus using Verilog programming.
 
 Developed by: NARRA AKHIL
 
 RegisterNumber:212223230136
 
-```
 module EXP10(clk, sin, q);
 input clk;
 input sin;
